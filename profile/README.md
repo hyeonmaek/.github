@@ -2,6 +2,8 @@
 
 # 현맥
 
+🏆 **KOREAN DEFENSE TECH HACKATHON 의 SC2 NUCODE Board Challenge 2등 수상작**
+
 **"3시 방향 적 발견" 대신 진북 기준 적 방향을 공유하고 필요할 때만 상급부대와 통신하는 분대 C2입니다.**
 
 ## KOREAN DEFENSE TECH HACKATHON | D4D x EDTH
@@ -10,7 +12,7 @@ KOREAN DEFENSE TECH HACKATHON | D4D x EDTH는 민간 개발자와 스타트업�
 
 <img src="booth.jpg" width="420" alt="해커톤 현장">
 
-현맥은 두 트랙에 동시에 출전했고 **SC2 NUCODE Board Challenge에서 2등을 수상했습니다.**
+현맥은 T4와 SC2 두 트랙에 동시에 출전했습니다.
 
 **T4 Tactical Edge: Sensor Fusion & Edge AI**  
 상급 망 없이 휴대 단말과 저전력 무선만으로 분대의 위치와 표적과 보고를 공유하는 소부대 전술 C2를 만드는 과제입니다.
