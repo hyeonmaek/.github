@@ -2,7 +2,7 @@
 
 # 현맥
 
-🏆 **KOREAN DEFENSE TECH HACKATHON 의 SC2 NUCODE Board Challenge 2등 수상작**
+**KOREAN DEFENSE TECH HACKATHON 참가작품**
 
 **"3시 방향 적 발견" 대신 진북 기준 적 방향을 공유하고 필요할 때만 상급부대와 통신하는 분대 C2입니다.**
 
